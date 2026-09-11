@@ -17,9 +17,9 @@ Available for Windows macOS and Linux
 
 ## Licensing
 
-OSCfusion runs as a **Donationware**: \
+MIDItoOSC runs as a **Donationware**: \
 Unfortunately, I’m not able to work for free anymore...  \
-So OSCfusion comes in a demo version, fully functional but pausing every 20 minutes with a pop-up asking for a donation through PayPal. Closing the pop-up reactivates the plugin until the next pause.  \
+So MIDItoOSC comes in a demo version, fully functional but pausing every 20 minutes with a pop-up asking for a donation through PayPal. Closing the pop-up reactivates the plugin until the next pause.  \
 I'm asking for a minimum of 15EUR.  \
 If paypal doesn't support donations through this system in your country, you can use this link: https://www.paypal.com/paypalme/DesignedByOM  \
 Once done, you will receive a license key that will stop the pop-up from appearing in future.  \
